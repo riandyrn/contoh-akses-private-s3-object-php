@@ -37,7 +37,7 @@ Berikut ini adalah IAM Policy minimum yang diperlukan untuk mengakses objek S3 y
 
 ## Demo Program
 
-Untuk demo program bisa diakses secara online [disini]().
+Untuk demo program bisa diakses secara online [disini](http://54.151.247.236:9114).
 
 Kalau mau coba-coba sendiri di local, ikuti langkah-langkah berikut:
 
