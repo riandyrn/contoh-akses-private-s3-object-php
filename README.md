@@ -44,6 +44,6 @@ Kalau mau coba-coba sendiri di local, ikuti langkah-langkah berikut:
 1. Pastikan kamu sudah menginstall `Docker` & `Make`.
 2. Set environment variable: `POC_S3_AWS_ACCESS_KEY_ID` & `POC_S3_AWS_SECRET_ACCESS_KEY` dengan AWS Access Key ID & AWS Secret Access Key yang memiliki akses seperti sesuai dengan [IAM Policy diatas](#iam-policy).
 3. Jalankan perintah `make run` untuk menjalankan programnya.
-4. Buka browser dan akses `http://localhost:9180`.
+4. Buka browser dan akses `http://localhost:9114`.
 
 ![Demo Program](./docs/tampilan-demo.png)

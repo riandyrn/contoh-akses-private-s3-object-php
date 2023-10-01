@@ -5,4 +5,4 @@ WORKDIR /s3-private-url-php
 
 COPY . .
 
-ENTRYPOINT ["php", "-S", "0.0.0.0:9180", "-t", "/s3-private-url-php/src/"]
+ENTRYPOINT ["php", "-S", "0.0.0.0:9114", "-t", "/s3-private-url-php/src/"]
