@@ -1,0 +1,17 @@
+{
+    "name": "riandyrn/s3-private-url-php",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Riandyrn\\S3PrivateUrlPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Riandy R.N"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.281"
+    }
+}
