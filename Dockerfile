@@ -16,4 +16,5 @@ RUN composer install
 
 COPY src/ ./src/
 
+# this is only for demo purpose, in production you should use nginx or apache
 ENTRYPOINT ["php", "-S", "0.0.0.0:9114", "-t", "/s3-private-url-php/src/"]
